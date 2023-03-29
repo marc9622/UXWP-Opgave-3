@@ -1,0 +1,22 @@
+html {
+    font-size: 16px;
+    font-family: "Shadows Into Light Two", sans-serif;
+}
+
+header {
+    padding: 1rem;
+    background-color: #f1f1f1;
+}
+
+sitetitle {
+    font-size: 3rem;
+    color: red;
+}
+
+.icon {
+    width: 3rem;
+}
+
+.search {
+    height: 2rem;
+}
